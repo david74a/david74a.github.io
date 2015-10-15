@@ -1,0 +1,34 @@
+# Dependencies
+markdown: kramdown
+pygments:	true
+
+# Permalinks
+permalink:	/:title
+
+# Setup
+title: Biscay and Beyond
+tagline:	'blog'
+description:	'The adventures of me (a handsome Welsh sailor named David) and my boat (a Jeanneau Sunfast 37 named White Angel)'
+url:		http://david74a.github.io
+
+author:
+  name:		'David Kennedy'
+
+paginate:	10
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+menu:
+  - title:	Home
+    url:	/
+
+  - title:	About
+    url:	/about
+
+copyright:
+  author:	Camporez
+  url:		http://camporez.com
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
